@@ -1,4 +1,8 @@
 categories:
   - title: Portfolio
     slug: portfolio
-    description:
+    description: My favorite and greatest work
+  
+  - title: Apple
+    slug: apple
+    description: Posts about 🍎
